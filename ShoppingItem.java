@@ -1,13 +1,4 @@
-/**
- * Project 04 --ShoppingItem
- *
- * This program models each Shopping Item
- *
- * @author Harini Muthu
- *
- * @version November 12, 2023
- *
- */
+
 
 public class ShoppingItem {
     private Product product;
