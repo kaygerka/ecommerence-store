@@ -2,16 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
-/**
- * All test cases for all classes for the project.
- * Was a work in progress, but was not pushed constantly.
- * <p>
- * Purdue University -- CS18000 -- Fall 2023  -- Project 04
- *
- * @author Joshua Pang
- * Lab Section 25
- * @version November 13th, 2023
- */
+
 public class TestCases {
 
     public static void main(String[] args) throws Exception {
