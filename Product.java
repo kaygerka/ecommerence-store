@@ -2,17 +2,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Project 04 --Product
- *
- * This program models each product and includes the actions that can be performed to it
- *
- * @author Harini Muthu
- *
- * @version November 12, 2023
- *
- */
-
 public class Product {
     private String name;
     private String description;
