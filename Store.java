@@ -3,16 +3,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Project 04 --Store
- *
- * This program models each store and includes the actions that can be performed to one
- *
- * @author Harini Muthu
- *
- * @version November 12, 2023
- *
- */
 
 public class Store {
     ArrayList<Product> products = new ArrayList<Product>();
