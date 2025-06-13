@@ -4,16 +4,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
-/**
- * Project 04 --Customer
- *
- * This program models each customer and the actions they can perform
- *
- * @author Harini Muthu
- *
- * @version November 12, 2023
- *
- */
 
 public class Customer extends User {
     ArrayList<ShoppingItem> cart = new ArrayList<ShoppingItem>();
